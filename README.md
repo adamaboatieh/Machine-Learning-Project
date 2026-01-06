@@ -7,15 +7,6 @@ The approach is based on **unsupervised anomaly detection**, where the model lea
 
 ---
 
-## 📁 Project Structure
-
-.
-├── driving_clean.csv
-├── smart_helmet_anomaly_model_report.ipynb
-├── smart_helmet_algorithm_comparison_step_by_step.ipynb
-├── train_anomaly_model.py
-├── README.md
-
 ### Files explained
 
 - **driving_clean.csv**  
